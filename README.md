@@ -5,9 +5,33 @@
 This repository provides an ArcGIS style file, enabling people to use matplotlib-style colormaps in ArcMap, and currently provides all color maps in the Diverging colormaps list. 
 
 ## Available matplotlib colormap
-
+![color_ramp](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/color_ramp.png)
 ## showcase
 
+### PiYG
+![PiYG](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/piyg.png)
+### PRGn
+![PRGn](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/prgn.png)
+### BrBG
+![BrBG](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/brbg.png)
+### PuOr
+![PuOr](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/puor.png)
+### RdGy
+![RdGy](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/rdgy.png)
+### RdBu
+![RdBu](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/rdbu.png)
+### RdYlBu
+![RdYlBu](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/rdyibu.png)
+### RdYlGn
+![RdYlGn](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/rdyign.png)
+### Spectral
+![Spectral](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/spectral.png)
+### coolwarm
+![coolwarm](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/cool_warm.png)
+### bwr
+![bwr](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/bwr.png)
+### seismic
+![seismic](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/seismic.png)
 
 
 
