@@ -51,7 +51,7 @@ This repository provides an ArcGIS style file, enabling people to use matplotlib
 ## 中文说明
 
 
-这个仓库提供了一个arcgis style文件，使你可以再arcmap中使用matplotlib风格的color map，当前提供Diverging colormaps列表中的所有colormaps。
+这个仓库提供了一个arcgis style文件，使你可以在arcmap中使用matplotlib风格的color map，当前提供Diverging colormaps列表中的所有colormaps。
 具体的样式参考如上。
 
 
