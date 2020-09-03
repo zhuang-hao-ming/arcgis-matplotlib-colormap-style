@@ -4,6 +4,8 @@
 
 This repository provides an ArcGIS style file, enabling people to use matplotlib-style colormaps in ArcMap, and currently provides all color maps in the Diverging colormaps list. 
 
+If you use this project, please star it, thank you!
+
 ## Available matplotlib colormap
 ![color_ramp](https://github.com/zhuang-hao-ming/arcgis-matplotlib-colormap-style/blob/master/images/color_ramp.png)
 ## showcase
@@ -53,5 +55,7 @@ This repository provides an ArcGIS style file, enabling people to use matplotlib
 
 这个仓库提供了一个arcgis style文件，使你可以在arcmap中使用matplotlib风格的color map，当前提供Diverging colormaps列表中的所有colormaps。
 具体的样式参考如上。
+
+如果你使用了这个项目，请给他点个星星吧，谢谢！
 
 
